@@ -1,0 +1,120 @@
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.exe
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.deps.json
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.runtimeconfig.json
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.runtimeconfig.dev.json
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.pdb
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.csprojAssemblyReference.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.AssemblyInfoInputs.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.AssemblyInfo.cs
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.csproj.CoreCompileInputs.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.RazorTargetAssemblyInfo.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.csproj.CopyComplete
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindService.StaticWebAssets.Manifest.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindService.StaticWebAssets.xml
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.pdb
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.genruntimeconfig.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.exe
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.deps.json
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.runtimeconfig.json
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.runtimeconfig.dev.json
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindService.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.csprojAssemblyReference.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.AssemblyInfoInputs.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.AssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.csproj.CoreCompileInputs.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.RazorTargetAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.csproj.CopyComplete
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindService.StaticWebAssets.Manifest.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindService.StaticWebAssets.xml
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindService\obj\Debug\netcoreapp3.1\NorthwindService.genruntimeconfig.cache

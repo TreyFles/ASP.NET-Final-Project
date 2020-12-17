@@ -1,0 +1,22 @@
+@model OrdersViewModel
+@{
+    ViewData["Title"] = "Order Page";
+}
+
+<h4>Orders</h4>
+  <h2 class="display-2">Orders</h2>
+<div class="row">
+@foreach (var item in @Model.Orders)
+{
+  <div class="card border-dark mb-3">
+    <div class="card-header"><b>Order Number - @item.OrderID</b></div>
+      <div class="card-body text-dark">
+        <div style="padding-left: 30px;">
+          <a asp-controller="Home" asp-action="OrderDetail" 
+              asp-route-id="@item.OrderID"
+              class="btn btn-primary">View Details</a>
+        </div>
+    </div>
+  </div>
+}
+</div>

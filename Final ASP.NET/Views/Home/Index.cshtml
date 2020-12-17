@@ -1,0 +1,14 @@
+﻿@model Final_ASP.NET.Models.HomeIndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To NorthWind!</h1>
+    <img src="~/images/windy.jpg" style="height: 240px; width: 240px;"/>
+
+    <form asp-action="Customers" method="get">
+      <input name="country" placeholder="Enter a country" />
+      <input type="submit" />
+    </form>
+</div>

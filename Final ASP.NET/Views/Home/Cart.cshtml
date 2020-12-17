@@ -1,0 +1,31 @@
+@model HomeCartViewModel
+@{
+    ViewData["Title"] = "Shopping Cart - Northwind";
+}
+
+<h1>@ViewData["Title"]</h1>
+<table class="table table-bordered">
+    <tr>
+        <th>Product ID</th>
+        <th>Product Name</th>
+        <th>Product Price</th>
+    </tr>
+@foreach (CartItem item in Model.Cart.Items)
+{
+    <tr>
+        <td>@item.ProductID</td>
+        <td>@item.ProductName</td>
+        <td>@item.UnitPrice.Value.ToString("C")</td>
+        <td><a> <img src="~/images/delete.jpg" style="height: 24px; width: 24px; float: right"/>
+        </a></td>
+        
+    </tr>
+}
+</table> 
+
+<script>
+</script>
+
+<div>
+
+</div>

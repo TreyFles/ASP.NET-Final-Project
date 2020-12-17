@@ -1,0 +1,20 @@
+POST http://localhost:5001/api/orders/ HTTP/1.1
+Content-Type: application/json
+Content-Length: 287
+
+{
+  "OrderID": "ABCXY",
+  "CustomerID": null,
+  "EmployeeID": null,
+  "OrderDate": "01/01/01",
+  "RequiredDate": null,
+  "ShippedDate": "01/01/01",
+  "Shipvia": null,
+  "Freight": "$1.00",
+  "ShipName": "John Doe",
+  "ShipAddress": "123 ABC Lane",
+  "ShipCity": "New York",
+  "ShipRegion": "NY",
+  "ShipPostalCode": "90210",
+  "ShipCountry": "USA",
+}

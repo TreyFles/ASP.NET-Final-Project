@@ -1,0 +1,36 @@
+@model Packt.Shared.Order
+@{
+    ViewData["Title"] = "Order Detail - " + Model.OrderID;
+}
+
+<h2 class="display-2" style="text-align: center;">Order Details</h2>
+
+  <div class="card border-dark mb-3"; style="width: 575px; margin: auto;">
+    <div class="card-header"><h2><b>Order Number - @Model.OrderID</b></h2></div>
+    <div class="card-body text-dark">
+      <h3><b>Shipping Info</b></h3>
+      <hr>
+      <h4>Date Shipped</h4>
+      <h5 style="text-align: right;">@Model.ShippedDate</h5>
+      @if(@Model.ShipVia == 1){
+      <h4>Shipper</h4>
+      <h5 style="text-align: right;">Speedy Express</h5>
+      }else if(@Model.ShipVia == 2){
+      <h4>Shipper</h4>
+      <h5 style="text-align: right;">United package</h5>
+      }else if(@Model.ShipVia == 3){
+      <h4>Shipper</h4>
+      <h5 style="text-align: right;">Federal Shipping</h5>
+      }
+      <h4>Shipping Cost</h4>
+      <h5 style="text-align: right;">$@Model.Freight</h5>
+      <hr>
+      <h3><b>Customer Info</b></h3>
+      <hr>
+      <h4>Customer Name</h4>
+      <h5 style="text-align: right;">@Model.ShipName</h5>
+      <h4>Customer Address</h4>
+      <h5 style="text-align: right;">@Model.ShipAddress , @Model.ShipCity</h5>
+      <h5 style="text-align: right;">@Model.ShipRegion @Model.ShipPostalCode @Model.ShipCountry</h5>
+    </div>
+  </div>

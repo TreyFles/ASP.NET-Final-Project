@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYvTjGP6DNQK6mjRyxTi9mlj/D62LI+bh8aXAawQAF+D4H7iSwScOqBE4qYDoe1nkQGyIQEfQ3soqcjm+LQ/Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OSA Pyro\\Downloads\\Final Project\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OSA Pyro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\OSA Pyro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\Downloads\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+E:\C#\cs8dotnetcore3-master\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\Downloads\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb

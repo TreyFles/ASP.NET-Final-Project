@@ -1,0 +1,303 @@
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.StaticWebAssets.xml
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\app.db
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.exe
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.deps.json
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.runtimeconfig.json
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.runtimeconfig.dev.json
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.pdb
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.Views.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.Views.pdb
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csprojAssemblyReference.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.AssemblyInfoInputs.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.AssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorAssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.TagHelpers.input.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.TagHelpers.output.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorCoreGenerate.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorTargetAssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.Views.pdb
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csproj.CopyComplete
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Final ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Final ASP.NET.StaticWebAssets.xml
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.dll
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.pdb
+C:\Users\OSA Pyro\Downloads\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.genruntimeconfig.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.StaticWebAssets.xml
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\app.db
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.exe
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.deps.json
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.runtimeconfig.json
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.runtimeconfig.dev.json
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.Views.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.Views.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csprojAssemblyReference.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.AssemblyInfoInputs.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.AssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorAssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.TagHelpers.input.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.TagHelpers.output.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorCoreGenerate.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorTargetAssemblyInfo.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.Views.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csproj.CopyComplete
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Final ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Final ASP.NET.StaticWebAssets.xml
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.genruntimeconfig.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\OrderDetail.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.StaticWebAssets.xml
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\app.db
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.exe
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.deps.json
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.runtimeconfig.json
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.runtimeconfig.dev.json
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.Views.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Final ASP.NET.Views.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csprojAssemblyReference.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.AssemblyInfoInputs.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.AssemblyInfo.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorAssemblyInfo.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorAssemblyInfo.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.TagHelpers.input.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.TagHelpers.output.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorCoreGenerate.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\OrderDetail.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.RazorTargetAssemblyInfo.cs
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.Views.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.csproj.CopyComplete
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Final ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Final ASP.NET.StaticWebAssets.xml
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.dll
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.pdb
+C:\Users\OSA Pyro\.dotnet\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Final ASP.NET.genruntimeconfig.cache
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\OSA Pyro\Downloads\Final Project\Final ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModelBinding.cshtml.g.cs

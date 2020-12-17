@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\OSA Pyro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\OSA Pyro\\.nuget\\packages"
+    ]
+  }
+}

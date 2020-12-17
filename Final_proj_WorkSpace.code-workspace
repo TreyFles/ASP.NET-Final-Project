@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "NorthwindEntitiesLib",
+			"path": "NorthwindEntitiesLib"
+		},
+		{
+			"name": "NorthwindContextLib",
+			"path": "NorthwindContextLib"
+		},
+		{
+			"name": "NorthwindService",
+			"path": "NorthwindService"
+		},
+		{
+			"name": "Final ASP.NET",
+			"path": "Final ASP.NET"
+		},
+		{
+			"path": "NorthwindTest"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Final ASP.NET"
+	}
+}

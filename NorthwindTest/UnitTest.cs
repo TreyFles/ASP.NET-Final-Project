@@ -62,6 +62,31 @@ namespace NorthwindTest.Tests
             Assert.AreEqual(testOrders.Count, result.Count);
         }
 
+        [TestMethod]
+        public void OrderDetailTest()
+        {
+            var testOrderDetails = GetOrderDetails();
+            var controller = new OrderDetailController(testOrderDetails);
+
+            var result = controller.GetAllOrderDetails() as List<OrderDetail>;
+            Assert.AreEqual(testOrderDetails.Count, result.Count);
+        }
+
+
+        private List<OrderDetail> GetOrderDetails()
+        {
+            var testOrderDetails = new List<OrderDetail>();
+            testOrderDetails.Add( new OrderDetail
+            {
+            OrderID = 12345,
+            ProductID = 1,
+            UnitPrice = 7.99m,
+            Quantity = 14,
+            Discount = 0.5,
+        });
+
+        return testOrderDetails; 
+        }
 
         private List<Order> GetTestOrders()
         {

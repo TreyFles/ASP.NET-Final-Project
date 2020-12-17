@@ -14,6 +14,7 @@ namespace Final_ASP.NET.Controllers
     public class ProductController : Controller
     {       
         List<Product> products = new List<Product>();
+
         public ProductController() { }
 
         public ProductController(List<Product> products)
@@ -26,7 +27,7 @@ namespace Final_ASP.NET.Controllers
             return products;
         }
 
-        public async Task<IEnumerable<Product>> GetAllProductsAsync()
+        public async Task <IEnumerable<Product>> GetAllProductsAsync()
         {
             return await Task.FromResult(GetAllProducts());
         }

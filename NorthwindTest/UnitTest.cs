@@ -23,6 +23,36 @@ namespace NorthwindTest.Tests
         }
 
         [TestMethod]
+        public void GetProductPrice()
+        {
+            var testProducts = GetTestProducts();
+            var controller = new ProductController(testProducts);
+            var ExPrice = 10.01m;
+            var result = controller.GetAllProducts() as List<Product>;
+            Assert.AreEqual(ExPrice, result[0].UnitPrice);
+        }
+
+        [TestMethod]
+        public void GetOrderID()
+        {
+            var testOrders = GetTestOrders();
+            var controller = new OrderController(testOrders);
+            var ExID = 12345;
+            var result = controller.GetAllOrders() as List<Order>;
+            Assert.AreEqual(ExID, result[0].OrderID);
+        }
+
+        [TestMethod]
+        public void GetOrderQuanity()
+        {
+            var testOrderDetails = GetOrderDetails();
+            var controller = new OrderDetailController(testOrderDetails);
+            var ExQty = 14;
+            var result = controller.GetAllOrderDetails() as List<OrderDetail>;
+            Assert.AreEqual(ExQty, result[0].Quantity);
+        }
+
+        [TestMethod]
         public async Task GetAllProductsAsync_ShouldReturnAllProducts()
         {
             var testProducts = GetTestProducts();
@@ -67,18 +97,27 @@ namespace NorthwindTest.Tests
         {
             var testOrderDetails = GetOrderDetails();
             var controller = new OrderDetailController(testOrderDetails);
-
+            
             var result = controller.GetAllOrderDetails() as List<OrderDetail>;
             Assert.AreEqual(testOrderDetails.Count, result.Count);
         }
-
+        
+        [TestMethod]
+        public void CustomerPhoneNum()
+        {
+            var testCustomers = GetTestCustomers();
+            var controller = new CustomerController(testCustomers);
+            var PhoneNum = "+1 (123)-456)-7890";
+            var result = controller.GetAllCustomers() as List<Customer>;
+            Assert.AreEqual(PhoneNum, result[0].Phone);
+        }
 
         private List<OrderDetail> GetOrderDetails()
         {
             var testOrderDetails = new List<OrderDetail>();
             testOrderDetails.Add( new OrderDetail
             {
-            OrderID = 12345,
+            OrderID = 54321,
             ProductID = 1,
             UnitPrice = 7.99m,
             Quantity = 14,
@@ -125,7 +164,7 @@ namespace NorthwindTest.Tests
             Region = "Test Customer 1",
             PostalCode = "Test Customer 1",
             Country = "Test Customer 1",
-            Phone = "Test Customer 1",
+            Phone = "+1 (123)-456)-7890",
             Fax= "Test Customer 1",
         });
 
